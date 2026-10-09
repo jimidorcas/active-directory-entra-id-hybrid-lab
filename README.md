@@ -32,7 +32,7 @@ The lab focused on configuring the directory environment, setting up synchronisa
 
 Set up a Windows Server virtual machine and configured the on-premises Active Directory environment.
 
-*See the screenshots in the `screenshots/` directory.
+See the screenshots in the `screenshots/` directory.
 
 ### 2. Microsoft Entra ID
 
